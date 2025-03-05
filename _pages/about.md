@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm a first year Phd student from [School of EIEE](https://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interest includes Robotics and Embodied AI.
-I am very fortunate to be advised by [Yonglu Li](https://dirtyharrylyl.github.io/) of [MVIG-RHOS Lab](https://mvig-rhos.com/) during my first year in SJTU. 
+Hi there! I'm a first year PhD student from [School of EIEE](https://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am very fortunate to be advised by [Yong-lu Li](https://dirtyharrylyl.github.io/) of [MVIG-RHOS Lab](https://mvig-rhos.com/) during my first year in SJTU. Prior to this, I graduated from [Zhengzhou University](https://www.zzu.edu.cn/) with Bachelor's degree in 2024.
 
 
 A data-driven personal website
