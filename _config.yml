@@ -13,7 +13,7 @@ title                    : "Chen Xiaoyang / Homepage"
 title_separator          : "-"
 name                     : &name "Chen Xiaoyang"
 description              : &description "personal description"
-url                      : "https://cytuser.github.io/chenxiaoyang.github.io/"
+url                      : https://cytuser.github.io/chenxiaoyang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
