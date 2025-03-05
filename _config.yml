@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Chen Xiaoyang"
   pronouns         : # example: "He/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
