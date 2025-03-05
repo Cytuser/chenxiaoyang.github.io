@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 Hi there! I'm a first year Phd student from [School of EIEE](https://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interest includes Robotics and Embodied AI.
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Yonglu Li](https://dirtyharrylyl.github.io/) of [MVIG-RHOS Lab](https://mvig-rhos.com/) during my first year in SJTU. 
+
 
 A data-driven personal website
 ======
